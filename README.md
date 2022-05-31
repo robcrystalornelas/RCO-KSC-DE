@@ -1,9 +1,5 @@
 # Rob Crystal-Ornelas' techincal assessment for Kingdom Supercultures
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/robcrystalornelas/RCO-KSC-DE/HEAD)
-
----
-
 ## Getting started
 The contents of this repository includes my technical assessment data products for KS's Data Engineer position.
 
